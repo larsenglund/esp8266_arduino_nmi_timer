@@ -1,4 +1,1 @@
-
-
-See https://github.com/esp8266/esp8266-wiki/wiki/gpio-registers if you get compile errors
-
+Working minimal(?) native NMI interrupt (made to be as similar as the arduino code as possible)
