@@ -36,6 +36,8 @@ typedef enum {
 void  hw_timer_arm(u32 val);
 void  hw_timer_set_func(void (* user_hw_timer_cb_set)(void));
 void  hw_timer_init(FRC1_TIMER_SOURCE_TYPE source_type, u8 req);
+//void ICACHE_RAM_ATTR blink_gpio(void);
+//volatile bool state;
 
 
 
